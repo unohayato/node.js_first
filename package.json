@@ -1,0 +1,23 @@
+{
+  "name": "node.js_first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unohayato/node.js_first.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unohayato/node.js_first/issues"
+  },
+  "homepage": "https://github.com/unohayato/node.js_first#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
